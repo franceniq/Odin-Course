@@ -1,0 +1,25 @@
+.numero{
+    font-family: Verdana, sans-serif;
+}
+
+.impar{
+    color: black;
+    background-color: rgba(236, 126, 126, 0.89);
+
+}
+
+#dos{
+    color: blue;
+    font-size: 36px;
+
+}
+
+.impar.grande{
+    font-size: 24px;
+}
+
+#cuatro{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
